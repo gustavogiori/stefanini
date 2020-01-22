@@ -33,7 +33,7 @@ namespace ProcessoSeletivo
             DependencyService.Register<IWeatherDataBusiness, WeatherDataBusiness>();
             DependencyService.Register<IDataBaseForecast, DataBaseForecast>();
             DependencyService.Register<IMainWeatherDataBase, MainWeatherDataBase>();
-            
+            DependencyService.Register<IWeatherObjectData, WeatherObjectData>();
             DependencyService.Register<ICoordinatesDataBase, CoordinatesDataBase>();
             DependencyService.Register<ICloudsDataBase, CloudsDataBase>();
             DependencyService.Register<IRainDataBase, RainDataBase>();

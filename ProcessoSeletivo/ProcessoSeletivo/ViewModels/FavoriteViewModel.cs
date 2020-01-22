@@ -15,6 +15,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
 using Xamarin.Forms;
+using ProcessoSeletivo.Data;
 
 namespace ProcessoSeletivo.ViewModels
 {
@@ -81,26 +82,10 @@ namespace ProcessoSeletivo.ViewModels
 
         private void AddItensToJson()
         {
-            var assembly = typeof(HomeView).GetTypeInfo().Assembly;
-            foreach (var res in assembly.GetManifestResourceNames())
+            var cities = DependencyService.Get<IWeatherObjectData>().GetCitiesJson();
+            foreach (var item in cities.data)
             {
-                if (res.Contains("city.list.json"))
-                {
-                    Stream stream = assembly.GetManifestResourceStream(res);
-
-                    using (var reader = new StreamReader(stream))
-                    {
-                        string json = "";
-                        json = reader.ReadToEnd();
-
-                        var listItens = JsonConvert.DeserializeObject<RootObject>(json);
-
-                        foreach (var item in listItens.data)
-                        {
-                            Cities.Add(item);
-                        }
-                    }
-                }
+                Cities.Add(item);
             }
         }
     }
