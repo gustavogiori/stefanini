@@ -1,0 +1,13 @@
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\netstandard2.0\city.list.json
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\netstandard2.0\ProcessoSeletivo.deps.json
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\netstandard2.0\ProcessoSeletivo.dll
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\bin\Debug\netstandard2.0\ProcessoSeletivo.pdb
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.App.xaml.g.cs
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.Views.FavoriteView.xaml.g.cs
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.Views.HomeView.xaml.g.cs
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.AssemblyInfoInputs.cache
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.AssemblyInfo.cs
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.dll
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.pdb
+C:\Users\gustavo.giori\Desktop\2\Open\ProcessoSeletivo\ProcessoSeletivo\obj\Debug\netstandard2.0\ProcessoSeletivo.csprojAssemblyReference.cache
